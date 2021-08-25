@@ -1,3 +1,7 @@
-﻿# 2021-8-25
+﻿! Title: AdGuard DNS filter
+! Description: AdGuard DNS filter
+! Version: 1.0.0.1
+! TimeUpdated: 2021-08-24T22:30:35+00:00
+! Homepage: https://cdn.jsdelivr.net/gh/u-on/src@page/adguard/dns_filter.txt
 13.229.188.59 github.com
 104.22.55.32 api.vcun.gq
